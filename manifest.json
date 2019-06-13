@@ -39,8 +39,8 @@
    "density": "4.0"
   }
  ],  
-  " theme_color " : " #2a12b9 " , 
-  " background_color " : " #FFFFFF " , 
+  " theme_color " : "#FFFFFF " , 
+  " background_color " : " #EAEAEA " , 
   " display " : " fullscreen " , 
   " orientasi " : " potret "
 }
