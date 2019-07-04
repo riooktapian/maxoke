@@ -1,46 +1,38 @@
 {
- "name": "Maxoke",
- " start_url " : " https://maxoke.com " ,
- "icons": [
-  {
-   "src": "https://1.bp.blogspot.com/-lYTwRH7n4u4/XQHA2vh_lZI/AAAAAAAAAz0/OiTfE9bz46M6EHWVQ_dG2hQDMDh1BKAegCLcBGAs/s1600/android-icon-36x36.png",
-   "sizes": "36x36",
-   "type": "image/png",
-   "density": "0.75"
-  },
-  {
-   "src": "https://1.bp.blogspot.com/-TZqGXTP6oD4/XQHA3ZvcseI/AAAAAAAAA0A/bFch__bJCoUd7r-7bzsJwNR5mNxs7RIowCLcBGAs/s1600/android-icon-48x48.png",
-   "sizes": "48x48",
-   "type": "image/png",
-   "density": "1.0"
-  },
-  {
-   "src": "https://1.bp.blogspot.com/-CMG2XGfZiZI/XQHA3xFw7iI/AAAAAAAAA0E/0TqNq0Gh_pY0iCcWI4WQV6bT3Mwvx0OrACLcBGAs/s1600/android-icon-72x72.png",
-   "sizes": "72x72",
-   "type": "image/png",
-   "density": "1.5"
-  },
-  {
-   "src": "https://1.bp.blogspot.com/-C7mZ8FbqxzQ/XQHA3z7GRwI/AAAAAAAAA0I/AiypBIkGz_sl0HjiT_LqiWKpgtmblRGQwCLcBGAs/s1600/android-icon-96x96.png",
-   "sizes": "96x96",
-   "type": "image/png",
-   "density": "2.0"
-  },
-  {
-   "src": "https://1.bp.blogspot.com/--4bJb5KEdig/XQHA2pHNmyI/AAAAAAAAAz4/lxiNguot2LkIGlOI0i0KHIeTvXNzBHudwCLcBGAs/s1600/android-icon-144x144.png",
-   "sizes": "144x144",
-   "type": "image/png",
-   "density": "3.0"
-  },
-  {
-   "src": "https://1.bp.blogspot.com/-ypHXWbhyC4o/XQHA2kkgoTI/AAAAAAAAAz8/jnff7MB9EHwIWEQzpmYbB_jCogjZiss6wCLcBGAs/s1600/android-icon-192x192.png",
-   "sizes": "192x192",
-   "type": "image/png",
-   "density": "4.0"
-  }
- ],  
-  " theme_color " : "#FFFFFF " , 
-  " background_color " : " #EAEAEA " , 
-  " display " : " fullscreen " , 
-  " orientasi " : " potret "
+  "name": "Maxoke",
+  "short_name": "Maxoke",
+  "start_url": "https://maxoke.com/",
+  "display": "standalone",
+  "background_color": "#2196F3",
+  "theme_color": "#d62d20",
+  "description": "Bisnis Online, Teknologi dan Tutorial",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-TZqGXTP6oD4/XQHA3ZvcseI/AAAAAAAAA0A/bFch__bJCoUd7r-7bzsJwNR5mNxs7RIowCLcBGAs/s48/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-CMG2XGfZiZI/XQHA3xFw7iI/AAAAAAAAA0E/0TqNq0Gh_pY0iCcWI4WQV6bT3Mwvx0OrACLcBGAs/s72/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-C7mZ8FbqxzQ/XQHA3z7GRwI/AAAAAAAAA0I/AiypBIkGz_sl0HjiT_LqiWKpgtmblRGQwCLcBGAs/s96/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--4bJb5KEdig/XQHA2pHNmyI/AAAAAAAAAz4/lxiNguot2LkIGlOI0i0KHIeTvXNzBHudwCLcBGAs/s144/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-raA9Cio1ZCI/XR55UqXm78I/AAAAAAAABHI/Lgc98RXyWqcPXiLbWOI185kCc7faYrG5QCLcBGAs/s168/maxok.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ypHXWbhyC4o/XQHA2kkgoTI/AAAAAAAAAz8/jnff7MB9EHwIWEQzpmYbB_jCogjZiss6wCLcBGAs/s192/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NVUTHowpdeY/XR55N8UoKII/AAAAAAAABHE/VZXDugOJGKoanuBQqKXP3g-NOoOh6_QAACLcBGAs/s512/maxoke.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
 }
