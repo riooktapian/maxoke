@@ -1,41 +1,29 @@
 {
- "name": "App",
- "icons": [
-  {
-   "src": "\/android-icon-36x36.png",
-   "sizes": "36x36",
-   "type": "image\/png",
-   "density": "0.75"
-  },
-  {
-   "src": "\/android-icon-48x48.png",
-   "sizes": "48x48",
-   "type": "image\/png",
-   "density": "1.0"
-  },
-  {
-   "src": "\/android-icon-72x72.png",
-   "sizes": "72x72",
-   "type": "image\/png",
-   "density": "1.5"
-  },
-  {
-   "src": "\/android-icon-96x96.png",
-   "sizes": "96x96",
-   "type": "image\/png",
-   "density": "2.0"
-  },
-  {
-   "src": "\/android-icon-144x144.png",
-   "sizes": "144x144",
-   "type": "image\/png",
-   "density": "3.0"
-  },
-  {
-   "src": "\/android-icon-192x192.png",
-   "sizes": "192x192",
-   "type": "image\/png",
-   "density": "4.0"
-  }
- ]
+  "name": "Ngefoodie",
+  "short_name": "Ngefoodie",
+  "start_url": "https://ngefoodie.blogspot.com/?home=true",
+  "display": "standalone",
+  "background_color": "#2196F3",
+  "theme_color": "#d62d20",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-tgZosabd2pI/XX5zSVpm3SI/AAAAAAAAACc/z5IF7hLsDNAtcProz_J45hfwq_bdlMM0ACLcBGAsYHQ/s48/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-rV63KBUZq6A/XX5zTXjCc5I/AAAAAAAAACg/j53sxI4bG1Mym76H8XO8DFjKGtJ8GRtqACLcBGAsYHQ/s72/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GFHgbXXNeds/XX5zTt__RRI/AAAAAAAAACk/rBRLIxDYhGYs8zTvZdoqI-avirTeIKBowCLcBGAsYHQ/s96/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-m1niAZHDumA/XX5zSQ2qJiI/AAAAAAAAACY/FTWPDvv_czQBxNFBpucytI6atBQstqHYwCLcBGAsYHQ/s144/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ycokmS1fHWE/XX5zSazcCOI/AAAAAAAAACU/epFx2qC6b3ASurKydANJxBw-q4zd1KjOACLcBGAsYHQ/s192/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
 }
